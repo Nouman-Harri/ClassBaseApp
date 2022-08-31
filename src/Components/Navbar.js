@@ -9,6 +9,9 @@ export default class Navbar extends Component {
             <a className="navbar-brand" href="/">
               NOUMAN HARRY
             </a>
+            
+            
+            
             <button
               className="navbar-toggler"
               type="button"
