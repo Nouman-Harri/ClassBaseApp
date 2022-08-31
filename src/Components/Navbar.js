@@ -7,9 +7,9 @@ export default class Navbar extends Component {
         <nav className="navbar navbar-dark bg-dark fixed-top">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
-              NOUMAN HARRY
+              NOUMAN HARRY Shishkati
             </a>
-            
+
             
             
             <button
