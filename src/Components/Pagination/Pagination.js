@@ -1,3 +1,4 @@
+import { render } from "@testing-library/react";
 import React, { Component } from "react";
 
 export default class Pagination extends Component {
@@ -35,3 +36,15 @@ export default class Pagination extends Component {
     );
   }
 }
+
+// these are just the pratice for the 
+
+// function Car(props){
+//   return (
+//     <h1>hello i am {props.color} Car</h1>
+//   )
+// }
+
+// const root = ReactDOM.createRoot(document.getElementById('root'))
+// root.render = (<car color = "blue" />)
+
