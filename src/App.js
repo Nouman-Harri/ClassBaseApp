@@ -5,6 +5,7 @@ import NextSec from "./Components/NextSec/NextSec";
 import Pagination from "./Components/Pagination/Pagination";
 import Accordion from "./Components/Accordion/Accordion"
 import Collapse from "./Components/Collapse/Collapse";
+import ListGroup from "./Components/List-Group/ListGroup";
 // import Alerts from "./Components/Alerts/Alerts";
 // import Carousel from "./Components/Carousel/Carousel";
 // import LoginForm from "./Components/LoginForm";
@@ -15,6 +16,7 @@ function App(props) {
       <Navbar />
       <Home />
       <Collapse />
+      < ListGroup />
       {/* <Alerts /> */}
       {/* <Carousel /> */}
       <hr />
