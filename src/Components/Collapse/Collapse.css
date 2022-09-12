@@ -1,0 +1,12 @@
+.backDiv {
+  background: rgb(238, 223, 233);
+}
+.marginDiv {
+  margin-top: 2rem;
+}
+.container p h1 {
+  text-transform: uppercase;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}

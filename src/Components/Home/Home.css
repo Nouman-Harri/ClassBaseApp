@@ -1,0 +1,6 @@
+.card-img-top:hover {
+ /* background-color: rgba(17, 17, 147, 0.4); */
+ /* border: 1px solid rgb(47, 255, 0); */
+ /* zoom: 3; */
+ cursor: pointer;
+}
